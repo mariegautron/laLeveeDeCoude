@@ -1,3 +1,7 @@
+> La Levée de Coude est une application web qui permettait aux utilisateurs de retrouver, créer et partager des recettes de cocktails à réaliser chez eux. Malheureusement, elle n'est plus disponible en ligne car son hébergement sur Heroku est devenu payant. Néanmoins, ce projet reste un exemple concret de développement collaboratif d'une application web avec Python et Django, et une expérience formatrice pour l'équipe qui l'a réalisé.
+
+> Pour en savoir plus : https://marie-gautrons-marvelous-site.webflow.io/project/la-levee-de-coude-retrouvez-creez-et-partagez-vos-recettes-de-cocktails-preferees
+
 # laLeveeDeCoude
 
 ### Create container :
